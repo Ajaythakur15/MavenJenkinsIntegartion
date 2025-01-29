@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AjayBaba" parallel="false">
+  <test name="TestAjay">
+    <classes>
+      <class name="com.ajay.qa.testcases.LoginPageTest"/>
+      
+      <!-- 
+      <class name="com.ajay.qa.testcases.FreeCrmTest"/>
+      <class name="com.ajay.qa.testcases.LoginPageTest"/>
+      <class name="com.ajay.qa.testcases.HomePageTest"/>
+      <class name="com.ajay.qa.testcases.RequestITPageTest"/>
+      
+      
+      <class name="com.aj.qa.base.TestBase"/>
+       -->
+       
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
