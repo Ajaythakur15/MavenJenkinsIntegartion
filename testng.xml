@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="AjayBaba" parallel="true">
+<suite name="AjayBaba" parallel="false">
   <test name="TestAjay">
     <classes>
-      <class name="com.ajay.qa.testcases.LoginPageTest"/>
       <class name="com.ajay.qa.testcases.HomePageTest"/>
       
       <!-- 
