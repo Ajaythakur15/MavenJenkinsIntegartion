@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="AjayBaba" parallel="false">
+<suite name="AjayBaba" parallel="true">
   <test name="TestAjay">
     <classes>
       <class name="com.ajay.qa.testcases.LoginPageTest"/>
+      <class name="com.ajay.qa.testcases.HomePageTest"/>
       
       <!-- 
       <class name="com.ajay.qa.testcases.FreeCrmTest"/>
